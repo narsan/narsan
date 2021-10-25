@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 * 📚 I'm currently a computer engineering student at Amirkabir University of Technology.
 * 
 
-Contact
+### Contact
 
-Linkedin Badge
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](http://linkedin.com/in/narges-sodeifi)
