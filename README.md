@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 📚 I'm currently a computer engineering student at Amirkabir University of Technology.
+* 
+
+Contact
+
+Linkedin Badge
