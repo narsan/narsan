@@ -1,7 +1,7 @@
-## Hi there I am <img src="https://see.fontimg.com/api/renderfont4/1V3Z/eyJyIjoiZnMiLCJoIjo5OCwidyI6MTUwMCwiZnMiOjY1LCJmZ2MiOiIjM0VCNThCIiwiYmdjIjoiIzFEMkE0NiIsInQiOjF9/bg/might-chain-regular.png" alt="drawing" width="20"/> arges
+## Hi there I am <img src="https://see.fontimg.com/api/renderfont4/1V3Z/eyJyIjoiZnMiLCJoIjo5OCwidyI6MTUwMCwiZnMiOjY1LCJmZ2MiOiIjM0VCNThCIiwiYmdjIjoiIzFEMkE0NiIsInQiOjF9/bg/might-chain-regular.png" alt="drawing" width="20"/> arges!
 
 
-
+### About me
 <!--
 **narsan/narsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 📚 I'm currently a computer engineering student at Amirkabir University of Technology.
