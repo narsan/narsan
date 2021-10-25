@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### Contact
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(http://linkedin.com/in/narges-sodeifi)
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](http://linkedin.com/in/narges-sodeifi)
