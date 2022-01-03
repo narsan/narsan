@@ -4,7 +4,7 @@
 ### About me
 
 * 📚 I'm currently a computer engineering student at Amirkabir University of Technology.
-* :ski: I'm a sport enthusiast person 
+* :mechanical_arm: I am really interested in kinesiology and sport analytics
 
 ### Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/narges-sodeifi)
