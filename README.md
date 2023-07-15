@@ -4,9 +4,9 @@
 ### About me
 
 * :woman_student: I successfully completed my bachelor’s degree in Computer Engineering at Amirkabir University of Technology, Tehran.
-* :mechanical_arm: I am really interested in kinesiology and sport analytics
+* :mechanical_arm: Passionate about machine learning, data science, and AI.
 
 ### Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/narges-sodeifi)
 
-Aslo chekcout my personal website: [narsan.github.io](https://narsan.github.io)
+For more detailed insights into my experience and accomplishments please visit [narsan.github.io](https://narsan.github.io)
