@@ -3,7 +3,7 @@
 
 ### About me
 
-* 📚 I'm currently a computer engineering student at Amirkabir University of Technology.
+* :woman_student: I successfully completed my bachelor’s degree in Computer Engineering at Amirkabir University of Technology, Tehran.
 * :mechanical_arm: I am really interested in kinesiology and sport analytics
 
 ### Contact
